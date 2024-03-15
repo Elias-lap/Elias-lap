@@ -5,3 +5,4 @@
 🚀 I'm on the lookout for opportunities to further expand my skill set and contribute to exciting projects. Whether it's within a collaborative team environment or through freelance engagements, I'm eager to take on new challenges and deliver high-quality solutions.
 
 💬 Let's connect and explore how we can collaborate on innovative projects together!
+🌐 You can check out some of my work on my portfolio: https://my-portfolio-65d29.web.app/
