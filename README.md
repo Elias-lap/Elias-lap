@@ -1,5 +1,9 @@
-   Welcome to Elias Zerz profile! 
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
+<h3 align="center">
+  Welcome to Elias Zerz profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 👋 Hey there! I'm Elias zerz, a junior front-end developer passionate about crafting engaging and intuitive user experiences. Currently, I'm honing my skills and gaining hands-on experience through an internship, where I've been delving into the world of web development with a focus on HTML, CSS, and JavaScript.
 
 💼 With a solid foundation in the core web technologies and proficiency in popular frameworks like React, I thrive on turning design concepts into functional, responsive interfaces. My toolkit also includes Sass, Tailwind, and Bootstrap, allowing me to create visually appealing layouts efficiently.
