@@ -1,3 +1,5 @@
+   Welcome to Elias Zerz profile! 
+
 👋 Hey there! I'm Elias zerz, a junior front-end developer passionate about crafting engaging and intuitive user experiences. Currently, I'm honing my skills and gaining hands-on experience through an internship, where I've been delving into the world of web development with a focus on HTML, CSS, and JavaScript.
 
 💼 With a solid foundation in the core web technologies and proficiency in popular frameworks like React, I thrive on turning design concepts into functional, responsive interfaces. My toolkit also includes Sass, Tailwind, and Bootstrap, allowing me to create visually appealing layouts efficiently.
@@ -6,3 +8,5 @@
 
 💬 Let's connect and explore how we can collaborate on innovative projects together!
 🌐 You can check out some of my work on my portfolio: https://my-portfolio-65d29.web.app/
+🛠  Tech Stack
+JavaScript  Bootstrap  HTML  CSS  React.js   Git  GitHub  Visual Studio Code  Sass firebase materia-ui tailwind css  
