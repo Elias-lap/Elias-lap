@@ -8,6 +8,8 @@
 
 💬 Let's connect and explore how we can collaborate on innovative projects together!
 🌐 You can check out some of my work on my portfolio: https://my-portfolio-65d29.web.app/
+- <a href="https://www.linkedin.com/in/elias-zerz-51b5a9251/" target="_blank"><img src="https://img.shields.io/badge/-EliasZerz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 🛠  **Tech Stack**
 - JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 - Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
@@ -21,7 +23,7 @@
 - Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
 - Material-UI ![Material-UI](https://img.icons8.com/color/48/000000/material-ui.png)
 - Tailwind CSS ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
-- <a href="https://www.linkedin.com/in/elias-zerz-51b5a9251/" target="_blank"><img src="https://img.shields.io/badge/-EliasZerz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 
 
 
