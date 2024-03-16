@@ -8,5 +8,16 @@
 
 💬 Let's connect and explore how we can collaborate on innovative projects together!
 🌐 You can check out some of my work on my portfolio: https://my-portfolio-65d29.web.app/
-🛠  Tech Stack
-JavaScript  Bootstrap  HTML  CSS  React.js   Git  GitHub  Visual Studio Code  Sass firebase materia-ui tailwind css  
+🛠  **Tech Stack**
+- JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- Bootstrap ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+- HTML ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+- CSS ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+- React.js ![React.js](https://img.icons8.com/plasticine/48/000000/react.png)
+- Git ![Git](https://img.icons8.com/color/48/000000/git.png)
+- GitHub ![GitHub](https://img.icons8.com/material-rounded/48/000000/github.png)
+- Visual Studio Code ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+- Sass ![Sass](https://img.icons8.com/windows/48/000000/sass.png)
+- Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+- Material-UI ![Material-UI](https://img.icons8.com/color/48/000000/material-ui.png)
+- Tailwind CSS ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
