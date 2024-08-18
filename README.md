@@ -8,8 +8,6 @@
 
 💼 With a solid foundation in the core web technologies and proficiency in popular frameworks like React, I thrive on turning design concepts into functional, responsive interfaces. My toolkit also includes Sass, Tailwind, and Bootstrap, allowing me to create visually appealing layouts efficiently.
 
-🚀 I'm on the lookout for opportunities to further expand my skill set and contribute to exciting projects. Whether it's within a collaborative team environment or through freelance engagements, I'm eager to take on new challenges and deliver high-quality solutions.
-
 💬 Let's connect and explore how we can collaborate on innovative projects together!
 🌐 You can check out some of my work on my portfolio: https://my-portfolio-65d29.web.app/
 - <a href="https://www.linkedin.com/in/elias-zerz-51b5a9251/" target="_blank"><img src="https://img.shields.io/badge/-EliasZerz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
