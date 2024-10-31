@@ -24,7 +24,13 @@
 - Sass ![Sass](https://img.icons8.com/windows/48/000000/sass.png)
 - Firebase ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
 - Material-UI ![Material-UI](https://img.icons8.com/color/48/000000/material-ui.png)
-- Tailwind CSS ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+
+
+
+
+
+
+
 
 
 
